@@ -1,3 +1,4 @@
+//this is my first library
 var starWarsNames = require('./starWarsNames.json');
 var uniqueRandomArray = require('unique-random-array');
 module.exports = {
